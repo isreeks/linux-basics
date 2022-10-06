@@ -38,7 +38,7 @@ _______
 ```
 ![This is an image](https://github.githubassets.com/images/modules/logos_page/GitHub-Logo.png)
 
-// Code box
+## Code box
 ````
 ```
 git status
