@@ -149,5 +149,5 @@ Right Align — ---:
 | Content Cell  | Content Cell  |
 
 <p align="center">
-  <img width="460" height="300" src="/git.png">
+  <img width="700" height="300" src="/git.png">
 </p>
