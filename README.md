@@ -149,5 +149,5 @@ Right Align — ---:
 | Content Cell  | Content Cell  |
 
 <p align="center">
-  <img width="460" height="300" src="https://github.githubassets.com/images/modules/logos_page/GitHub-Logo.png">
+  <img width="460" height="300" src="/git.png">
 </p>
